@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: Android Fit example
+author: Michael Gangolf
+license: public domain
+copyright: none
+
+# these should not be edited
+name: tifit
+moduleid: ti.miga.tifit
+guid: b2b4bdfb-4b61-47c1-96c0-009d8c2827dd
+platform: android
+minsdk: 3.4.0.GA
