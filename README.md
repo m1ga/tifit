@@ -1,5 +1,7 @@
 Titanium Android module for Android Fit (work in progress!)
 
+![preview](android/example/image.png)
+
 ```
 var tifit = require("ti.miga.tifit");
 tifit.init();
@@ -13,7 +15,6 @@ function onReceived(e){
 	});
 	$.index.add(l);
 }
-
 
 $.index.open();
 ```
